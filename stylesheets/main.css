@@ -18,7 +18,6 @@ h2, h3 {
 
 .main {
   background-color: black;
-  opacity: 70%;
   justify-content: left;
   margin-left: 50%;
   object-position: cover;
@@ -32,9 +31,11 @@ nav {
 }
 
 .img {
-  size: 250 300;
+  size: 30%;
+  opacity: 100%;
 }
 
 img {
   border: 2px black solid;
+  opacity: 100%;
 }
